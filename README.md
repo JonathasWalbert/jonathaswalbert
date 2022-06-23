@@ -3,6 +3,6 @@
 - 🔭 Apaixonado por tecnologia
 - 🌱 Formado em engenharia da computação, aluno da Pós Desenvolvimento Mobile
 - 👯 Conhecimento nas linguagens: kotlin, html, css, javascript, c/c++
-- 🤔 Me aventurando no mundo de dev android
+- 🤔 Me aventurando no mundo de desenvolvimento android
 - 📫 Email: jonathaswalbert1998@gmail.com
 
