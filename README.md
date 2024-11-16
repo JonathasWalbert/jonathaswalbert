@@ -1,9 +1,9 @@
 <h1>Seja bem vindo, eu sou o Jonathas</h1>
 
 - 🔭 Apaixonado por tecnologia
-- 🌱 Formado em engenharia da computação, aluno da Pós Desenvolvimento Mobile
-- 👯 Conhecimento nas linguagens: kotlin, html, css, javascript, c/c++
-- 🤔 Me aventurando no mundo de desenvolvimento android
+- 🌱 Formado em engenharia da computação, Pos graduado em Desenvolvimento Mobile
+- 👯 Conhecimento em: React Native, React, Javascript, Typescript, HTML, CSS.
+- 🤔 Me aventurando no mundo de desenvolvimento mobile multiplataforma.
 - 📫 Email: jonathaswalbert1998@gmail.com
-- 👀 https://jonathaswalbert.w3spaces.com/index.html
+- 👀 linkedin.com/in/jonathaswalbert
 
